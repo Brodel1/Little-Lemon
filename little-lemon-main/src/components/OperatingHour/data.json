@@ -1,0 +1,37 @@
+[
+    {
+        "day": "Mon",
+        "lunch": "11:00-14:00",
+        "dinner": "18:00-22:00"
+    },
+    {
+        "day": "Tue",
+        "lunch": "11:00-14:00",
+        "dinner": "18:00-22:00"
+    },
+    {
+        "day": "Wed",
+        "lunch": "Closed",
+        "dinner": "Closed"
+    },
+    {
+        "day": "Thu",
+        "lunch": "Closed",
+        "dinner": "Closed"
+    },
+    {
+        "day": "Fri",
+        "lunch": "11:00-14:00",
+        "dinner": "17:00-24:00"
+    },
+    {
+        "day": "Sat",
+        "lunch": "11:00-15:00",
+        "dinner": "17:00-24:00"
+    },
+    {
+        "day": "Sun",
+        "lunch": "11:00-15:00",
+        "dinner": "17:00-24:00"
+    }
+]

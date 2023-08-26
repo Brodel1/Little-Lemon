@@ -1,0 +1,65 @@
+[
+    {
+        "section": "Navigation",
+        "links": [
+            {
+                "name": "Home",
+                "url": "/home"
+            },
+            {
+                "name": "About",
+                "url": ""
+            },
+            {
+                "name": "Menu",
+                "url": ""
+            },
+            {
+                "name": "Resevations",
+                "url": "/reservation"
+            },
+            {
+                "name": "Order Online",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "section": "Social Links",
+        "links": [
+            {
+                "name": "Facebook",
+                "url": ""
+            },
+            {
+                "name": "Instagram",
+                "url": ""
+            },
+            {
+                "name": "Tiktok",
+                "url": ""
+            },
+            {
+                "name": "Twitter",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "section": "Contact Us",
+        "links": [
+            {
+                "name": "Address",
+                "url": ""
+            },
+            {
+                "name": "Email",
+                "url": ""
+            },
+            {
+                "name": "Phone",
+                "url": ""
+            }
+        ]
+    }
+]

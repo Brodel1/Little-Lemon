@@ -1,0 +1,33 @@
+.inputDate {
+    width: 100%;
+    outline: 2px solid transparent;
+    height: var(--chakra-sizes-10);
+    border-color: inherit;
+    font-size: var(--chakra-fontSizes-md);
+}
+
+.inputDate:focus-visible {
+    z-index: 1;
+    border-color: var(--chakra-colors-blue-500);
+    box-shadow: 0 0 0 1px var(--chakra-colors-blue-500);
+}
+
+.inputRate {
+    font-size: 2rem;
+    color: #F4CE14;
+}
+
+.ant-picker:hover {
+    border-color: var(--chakra-colors-gray-300);
+}
+
+.ant-picker .ant-picker-input>input {
+    font-size: 1rem;
+    font-family: 'Karla';
+    padding-left: 5px;
+}
+
+.ant-picker-focused {
+    border-color: var(--chakra-colors-blue-500);
+    box-shadow: 0 0 0 1px var(--chakra-colors-blue-500);
+}

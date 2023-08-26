@@ -1,0 +1,30 @@
+[
+    {
+        "key": "1",
+        "name": "Helena Kimberley",
+        "rated" : 2,
+        "said": "It's not just dining, but an anazing overall experience.",
+        "picture": "./assets/avatarA.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Ryan Florence",
+        "rated" : 3,
+        "said": "Fabulous fantastic and everything I had imagined.",
+        "picture": "./assets/avatarB.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Sahar Russell",
+        "rated" : 3,
+        "said": "Excellent and fast service, fresh and delicious food.",
+        "picture": "assets/avatarC.jpg"
+    },
+    {
+        "key": "4",
+        "name": "Prosper Otemuyiwa",
+        "rated" : 2,
+        "said": "Nice restaurant, I loved the food, value for money.",
+        "picture": "assets/avatarD.jpg"
+    }
+]

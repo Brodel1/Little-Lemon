@@ -1,0 +1,16 @@
+.timehhmm {
+    font-size: var(--chakra-fontSizes-md);
+    color: var(--chakra-colors-primary-green);
+}
+
+.timeClosed {
+    font-size: var(--chakra-fontSizes-md);
+    color: var(--chakra-colors-primary-yellow);
+    font-weight: 500;
+}
+
+.timeHeader {
+    font-size: var(--chakra-fontSizes-md);
+    color: var(--chakra-colors-primary-green);
+    font-weight: 700;
+}

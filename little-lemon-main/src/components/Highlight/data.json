@@ -1,0 +1,23 @@
+[
+    {
+        "key": "1",
+        "name": "Greek Salad",
+        "price": "12.99",
+        "description": "The famous Greek salad of crispy lettuce, peppers, olives, and our Chicago-style feta cheese, garnished with crunchy garlic and rosemary croutons.",
+        "picture": "./assets/greek_salad.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Bruschetta",
+        "price": "6.99",
+        "description": "Our Bruschetta is made from grilled bread that has been spread with garlic and seasoned with salt and olive oil.",
+        "picture": "./assets/bruchetta.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Lemon Dessert",
+        "price": "5.29",
+        "description": "This comes straight from grandma's recipe book, every last ingredient has been sourced and is as authentic as can be imagined.",
+        "picture": "./assets/lemon_dessert.jpg"
+    }
+]

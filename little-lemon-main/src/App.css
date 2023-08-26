@@ -1,0 +1,45 @@
+/*
+@media (max-width: 700px) {
+  .grid-adjustable-columns {
+    display: grid;
+    grid-auto-flow: row;
+  }
+}
+
+@media (min-width: 701px) {
+  .grid-adjustable-columns {
+    width: min(1000px, 75rem);
+    margin: 0 auto;
+    grid-auto-flow: column;
+    gap: 1em;
+  }
+}
+*/
+
+/*
+h1, h2, h3, h4, h5 and h6
+p
+span
+nav
+ul
+li
+img 
+
+Font size
+Color
+Background
+Line-height
+Letter-spacing
+Grid
+Flex
+Display
+Border
+Border radius
+*/
+
+/*
+Use ARIA attributes
+Improve app accessibility by using ARIA attributes
+
+aria-label="On Click"
+*/
